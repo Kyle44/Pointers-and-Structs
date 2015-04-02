@@ -1,4 +1,4 @@
-// Kyle Fritz
+// Author: Kyle Fritz
 // File: Lab4.cpp
 // Date Modified: 4/1/15
 // Description: This program takes in three inputs, uses the struct Record, exercises what the difference is between functions with and without the & symbol
